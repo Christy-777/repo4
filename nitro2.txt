@@ -1,0 +1,5 @@
+Hello world!
+this is Marra
+the robot
+speed1 tera byte
+memory 1 gita byte
